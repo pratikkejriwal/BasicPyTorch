@@ -1,6 +1,6 @@
-# BasicPyTorch
+# PyTorch Reference
 
-Basic PyTorch Programs for Reference
+Reference Code for ML, NLP and Image Classification Programs written in PyTorch, to act as Starting guide.
 
 ### Basic ML Programs using PyTorch
 - [Linear Regression Algorithm in PyTorch](./LinearRegression.ipynb)
